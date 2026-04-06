@@ -1,7 +1,6 @@
-## Hi there 👋
+## Welcome to my Github Repository! 
 
-
-Welcome to my Github Repository! My name is Simba Ibrahiim. My qualifications are as follows:
+### My name is Simba Ibrahiim. My qualifications are as follows:
 
 - Bachelors of Applied Science (BASc.) Mechatronics Engineering from the University of Waterloo, Ontario, CA.
 
