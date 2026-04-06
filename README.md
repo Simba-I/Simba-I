@@ -1,16 +1,24 @@
-## Hi there 👋
+## Welcome to my Github Repository! 
 
-<!--
-**Simba-I/Simba-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Simba Ibrahiim. My qualifications are as follows:
 
+- Bachelors of Applied Science (BASc.) Mechatronics Engineering from the University of Waterloo, Ontario, CA.
+
+Here are some projects I am currently working on:
+- Front End Webdev
+  <description>
+
+Here are some other projects that can be found in my repository:
+
+Areas I'm interested in:
+
+I'm looking for collaborations on/help with:
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can be reached at the following:
+
+  Email: simba.ibrahiim@gmail.com
+  Tel: 1-868-347-0270
+
+
+
